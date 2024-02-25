@@ -1,0 +1,6 @@
+# ninja log v5
+1	998	1708814235525547883	CMakeFiles/DrogonMyWebServer.dir/controller/testctrl.cc.o	4900e134a975cffe
+0	1603	1708814236129803782	CMakeFiles/DrogonMyWebServer.dir/main.cpp.o	e41a4ebb01e8d7c2
+1604	1787	1708814236316211330	DrogonMyWebServer	3eaa416b0540a88e
+4	1031	1708817669597715311	CMakeFiles/DrogonMyWebServer.dir/controller/testctrl.cc.o	4900e134a975cffe
+1031	1279	1708817669845575882	DrogonMyWebServer	3eaa416b0540a88e
